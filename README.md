@@ -6,12 +6,12 @@ The goal of this project is to find the best location where to live in New York 
 
 1. The file **"Download_And_Import"** contains the shell script for dowloading data and importing them the in MongoDB.
 2. The file **"Queries" contains** all Javascript queries requiered to find the best location to live in New York.
-2. Finally, the file Description.pdf gives more details about the project.
+2. Finally, the file **Description.pdf** gives more details about the project.
 
 # Programming Environment
 - Ubuntu 17.04
 - MongoDB  3.6.2 : [Installation link for Ubuntu](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
-- Robot Mongo 3T 1.1 [Installation link](https://download.robomongo.org/1.1.1/linux/robo3t-1.1.1-linux-x86_64-c93c6b0.tar.gz)
+- Robot Mongo 3T 1.1: [Installation link](https://download.robomongo.org/1.1.1/linux/robo3t-1.1.1-linux-x86_64-c93c6b0.tar.gz)
 
   In robot mongo installation step you can deal with this kind of error:\
   "This application failed to start because it could not find or load the Qt platform plugin "xcb" robot mongo" 
