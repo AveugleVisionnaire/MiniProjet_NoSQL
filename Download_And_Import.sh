@@ -1,7 +1,7 @@
 #!/bin/sh
 'This script downloads datasets needed for the project from NYC Open data website.
 PS: The datasets are save in the folder where you launch script.
-The package "wget" is needed to achieve the job.
+The package "wget" is required to achieve the job.
 Ubuntu recent version have it installed default. 
 You can install it by typing: sudo apt-get install wget
 '
